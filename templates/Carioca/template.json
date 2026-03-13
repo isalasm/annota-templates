@@ -1,0 +1,42 @@
+{
+  "id": "t_carioca",
+  "type": "stages",
+  "stages": [
+    { "id": "stage1" },
+    { "id": "stage2" },
+    { "id": "stage3" },
+    { "id": "stage4" },
+    { "id": "stage5" },
+    { "id": "stage6" },
+    { "id": "stage7" }
+  ],
+  "settings": {
+    "winnerCondition": "lowestScoreWins"
+  },
+  "translations": {
+    "en": {
+      "name": "Carioca",
+      "stages": {
+        "stage1": "2 Sets (6 cards)",
+        "stage2": "1 Set, 1 Straight (7 cards)",
+        "stage3": "2 Straights (8 cards)",
+        "stage4": "3 Sets (9 cards)",
+        "stage5": "2 Sets, 1 Straight (10 cards)",
+        "stage6": "1 Set, 2 Straights (11 cards)",
+        "stage7": "3 Straights (12 cards)"
+      }
+    },
+    "es": {
+      "name": "Carioca",
+      "stages": {
+        "stage1": "2 Tríos (6 cartas)",
+        "stage2": "1 Trío, 1 Escala (7 cartas)",
+        "stage3": "2 Escalas (8 cartas)",
+        "stage4": "3 Tríos (9 cartas)",
+        "stage5": "2 Tríos, 1 Escala (10 cartas)",
+        "stage6": "1 Trío, 2 Escalas (11 cartas)",
+        "stage7": "3 Escalas (12 cartas)"
+      }
+    }
+  }
+}

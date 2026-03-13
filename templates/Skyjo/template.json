@@ -1,0 +1,15 @@
+{
+  "id": "t_skyjo",
+  "type": "stages",
+  "settings": {
+    "winnerCondition": "lowestScoreWins"
+  },
+  "translations": {
+    "en": {
+      "name": "Skyjo"
+    },
+    "es": {
+      "name": "Skyjo"
+    }
+  }
+}
